@@ -1,2 +1,2 @@
 # Ames_Housing_Analysis
-The goal of this project is to predict the age and sell price of a house within the Ames Housing Dataset. Data visualization and standardization is performed. Data is analyzed using multivariate linear regression, and I contextualize my findings by analyzing the residuals of the model.
+The goal of this project is to predict the age and sell price of a house within the Ames Housing Dataset. Data is normalized and multivariate linear regression is used to predict the target variables. Two models are implemented. The first uses normalized independent variables from the data, the second uses principal component analysis to better capture the variance of the data.
